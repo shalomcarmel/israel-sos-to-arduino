@@ -138,4 +138,3 @@ config.py
 tests/
 try*
 config.ini
-/src/
