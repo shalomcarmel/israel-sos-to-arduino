@@ -22,6 +22,7 @@ Use pip to install them
     # to install in this directory
     pip install -r requirements.txt -t .
 
+Copy `config-example.ini` to a new file `config.ini` and modify it according to your needs.
 ### Reset history
 The tool keeps a record of processed events in a history file. Clear the history.txt file to reset. 
 ### Known limitations and problems
