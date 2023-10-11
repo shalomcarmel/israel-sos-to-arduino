@@ -1,0 +1,5 @@
+requests
+pyfirmata
+pyserial
+
+# pip install -r requirements.txt
